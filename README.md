@@ -27,4 +27,4 @@ Using cloud, the results are announced immediately and all the polling booths ar
 
 - [Arnav Buch](https://github.com/abuch99)
 - [Sathwik PG](https://github.com/pgsathwik)
-- [Giridhar Bajpai](https://github.com/https://github.com/girib98)
+- [Giridhar Bajpai](https://github.com/girib98)
